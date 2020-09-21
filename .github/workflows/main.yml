@@ -32,5 +32,5 @@ jobs:
           echo Add other actions to build,
           echo test, and deploy your project.
           echo Node: `node -v`
-          echo Python: `python -v`
+          echo Python: `python3 --version`
           echo Ruby: `ruby -v`
