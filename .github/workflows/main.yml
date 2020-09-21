@@ -31,4 +31,6 @@ jobs:
         run: |
           echo Add other actions to build,
           echo test, and deploy your project.
-          node -v
+          echo Node: `node -v`
+          echo Python: `python -v`
+          echo Ruby: `ruby -v`
